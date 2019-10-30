@@ -16,13 +16,13 @@ Needed tools:
 3. Run the calibration 'python calibration.py' and follow the instructions.
 4. Run 'python start.py' to start the game.
 
-## Setting up the VisionKit
+### Setting up the VisionKit
 
 For the basic setup please visit the GitHub repo below.
 <https://github.com/SERLatBTH/DobotMagicianVisionKit>
 Place the camera support as high as possible on the extension pole. Position the camera so that the usb-port is pointing to the right when you're standing behind it.
 
-To use the camera you'll need to install the two .exe files that's within the "CameraSetup" folder. 'driver_setup' installs the required drivers, 'usbVideo_setup' installs a couple of program, the one we're looking for is "DShowManager". Once you've installed both you need to open DShowManager and enable 'Auto register DS' and 'Keep Alive', this will let your computer use the VisionKit as a regular webcam.
+To use the camera you'll need to install the two .exe files that's within the "CameraSetup" folder. 'driver_setup' installs the required drivers, 'usbVideo_setup' installs a couple of program, the one we're looking for is "DShowManager". Once you've installed both you need to open DShowManager and enable 'Auto register DS' and 'Keep Alive', this will let me computer find the camera.
 
 
 ### Playing field
