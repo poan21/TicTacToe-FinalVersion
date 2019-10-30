@@ -33,7 +33,7 @@ To use the camera you'll need to install the two .exe files that's within the "C
 
 ### Playing field
 
-The playing field used is 15x15cm and drawn on a regular piece of paper. The playing pieces were made out of cardboard with the size 4x4cm and has O's and X's ontop of them.
+The playing field used is 15x15cm and drawn on a regular piece of paper. The playing pieces were made out of cardboard with the size 4x4cm and has O's and X's ontop of them. Look at the picture below on how the playing field should be, the calibration program will help you place it in the correct spot. You can keep the paper in place by placing something heavy on it, or use some tape.
 
 #### Setup should look like this
 
