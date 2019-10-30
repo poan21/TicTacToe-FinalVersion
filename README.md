@@ -9,6 +9,13 @@ Needed tools:
 * Python 3.6
 * OpenCV library for Python
 
+### How to play?
+
+1. Download the repo
+2. Set up VisionKit
+3. Run the calibration 'python calibration.py' and follow the instructions.
+4. Run 'python start.py' to start the game.
+
 ## Setting up the VisionKit
 
 For the basic setup please visit the GitHub repo below.
@@ -22,14 +29,9 @@ To use the camera you'll need to install the two .exe files that's within the "C
 
 The playing field used is 15x15cm and drawn on a regular piece of paper. The playing pieces were made out of cardboard with the size 4x4cm and has O's and X's ontop of them.
 
+#### Setup should look like this
 
-### How to play?
-
-1. Download the repo
-2. Set up VisionKit
-3. Run the calibration 'python calibration.py' and follow the instructions.
-4. Run 'python start.py' to start the game.
-5. Enjoy!
+![Everything set up](https://i.imgur.com/H5l4tLC.jpg "Everything set up")
 
 
 My name is Pontus Andersson and I study Web Programming at Blekinge Institute of Technology.
