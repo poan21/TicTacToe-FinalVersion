@@ -31,12 +31,13 @@ Who would you like to play as, X or O?
     while x == 0:
         diffInp = input ("""
 Which difficulty would you like to play against?
-1) Easy
-2) Hard""")
-        if diffInp.lower() == "1":
+> Easy
+> Hard
+--> """)
+        if diffInp.lower() == "easy":
             diff = "easy"
             x = 1
-        elif diffInp.lower() == "2":
+        elif diffInp.lower() == "hard":
             diff = "hard"
             x = 1
         else:
@@ -47,12 +48,13 @@ Which difficulty would you like to play against?
     while x == 0:
         fTurn = input("""
 Who should go first?
-1) Player
-2) DoBot """)
-        if fTurn.lower() == "1":
+> Player
+> DoBot
+--> """)
+        if fTurn.lower() == "player":
             game.setFirstTurn("1")
             x = 1
-        elif fTurn.lower() == "2":
+        elif fTurn.lower() == "dobot":
             game.setFirstTurn("2")
             x = 1
         else:
