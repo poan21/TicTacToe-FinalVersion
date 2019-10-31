@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+import time
 import os
 
 locCoords = [
@@ -18,7 +19,7 @@ def checkPlaced(game):
     os.remove("images/placed.png")
 
     cam = grabPos()
-
+    time.sleep(2)
     img = cv2.imread("images/placed.png", 0)
 
     if game.player == "O":
