@@ -8,6 +8,7 @@ Needed tools:
 * Windows computer (Tested on Windows 8)
 * Python 3.6
 * OpenCV library for Python
+* DoBot Studio
 
 ### How to play?
 
